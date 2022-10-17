@@ -14,16 +14,16 @@
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/formidablefarmland/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "retr0.formidablefarmland.FormidableFarmland"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "formidablefarmland.mixins.json"
   ],
 
   "depends": {
