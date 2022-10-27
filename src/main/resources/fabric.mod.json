@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "FormidableFarmland",
-  "description": "TODO!",
+  "description": "Strengthens farmland to not crumble under measly jumps!",
   "authors": [
     "2Retr0"
   ],
