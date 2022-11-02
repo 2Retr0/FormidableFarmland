@@ -12,6 +12,6 @@ FormidableFarmland is a small mod that aims to reduce the annoyance of unintenti
 Download the latest version over at [Modrinth](https://modrinth.com/mod/FormidableFarmland)!
 
 ## Images
-![Jump Demo](https://imgpile.com/images/bIk2fG.gif "Jump Demo")
+![Jump Demo](https://imgpile.com/images/bIk3TN.gif "Jump Demo")
 
 [^1]: Yes, the preview image for this mod is clickbait—if you're wondering, the icon is just farmland with a block of netherite falling block entity shoved against it (rendered with Complementary Shaders).
