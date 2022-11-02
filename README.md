@@ -1,5 +1,4 @@
 # FormidableFarmland
-
 FormidableFarmland is a small mod that aims to reduce the annoyance of unintentionally flattening farmland[^1] (upon accidental jumping/falling) in a balanced way—specifically:
 
 ## Features
@@ -8,8 +7,11 @@ FormidableFarmland is a small mod that aims to reduce the annoyance of unintenti
     - At 2.0 blocks → 50% chance of farmland flattening *(e.g. jumping off a fence post).*
     - At 3.5 blocks → 100% chance of farmland flattening *(e.g. falling from a house, etc.).*
 * **Allowing farmland to be flattened via right-clicking with a shovel** *(will not interfere with path-making!)*\
-  <sup>Note: Made as an alternative (less fun :C ) method for quickly flattening farmland in the absence of jumping. 
+  <sup>Note: Made as an alternative (less fun :C ) method for quickly flattening farmland in the absence of jumping.
 
 Download the latest version over at [Modrinth](https://modrinth.com/mod/FormidableFarmland)!
+
+## Images
+![Jump Demo](https://imgpile.com/images/bIk2fG.gif "Jump Demo")
 
 [^1]: Yes, the preview image for this mod is clickbait—if you're wondering, the icon is just farmland with a block of netherite falling block entity shoved against it (rendered with Complementary Shaders).
