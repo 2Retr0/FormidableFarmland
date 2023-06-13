@@ -5,30 +5,23 @@
 
     "name": "FormidableFarmland",
     "description": "Prevents farmland from crumbling under measly jumps!",
-    "authors": [
-        "2Retr0"
-    ],
+    "authors": [ "2Retr0" ],
     "contact": {
         "homepage": "https://github.com/2Retr0/formidablefarmland",
-        "issues": "https://github.com/2Retr0/formidablefarmland/issues",
-        "sources": "https://github.com/2Retr0/formidablefarmland"
+        "sources": "https://github.com/2Retr0/formidablefarmland",
+        "issues": "https://github.com/2Retr0/formidablefarmland/issues"
     },
 
-    "license": "CC0-1.0",
+    "license": "MIT",
     "icon": "assets/formidablefarmland/icon.png",
 
     "environment": "*",
     "entrypoints": {
-        "main": [
-            "retr0.formidablefarmland.FormidableFarmland"
-        ]
+        "main": [ "retr0.formidablefarmland.FormidableFarmland" ]
     },
-    "mixins": [
-        "formidablefarmland.mixins.json"
-    ],
+    "mixins": [ "formidablefarmland.mixins.json" ],
 
     "depends": {
-        "fabricloader": ">=0.14.9",
-        "minecraft": "~1.19"
+        "fabricloader": "*"
     }
 }
